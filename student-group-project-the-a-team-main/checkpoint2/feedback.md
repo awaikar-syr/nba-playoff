@@ -1,0 +1,5 @@
+Grade: 15/20  
+
+You've really done very little work here thus far - multicolinearity may be a problem but, as I said in class, it's really important to scale your data when using logistic regression.  So the lack of any data cleaning and transformation at the outset is likely the more significant problem here. I'm not sure why you're using statsmodels instead of sklearn?  Sklearn offers multiple solvers with LogisticRegression, and so you could try any one of them, or (easily) swap out logistic regression for a more robust classifier.  You have a ton of data here, so it seems to be you should be able to do this quite readily.
+
+I think you've barely scratched the surface here - you're going to have to spend a lot more time with your data before you ever get to things like hyperparameter tuning, so I'm hoping you'll be able to do this.  I think you probably have the ability, but you're going to have to devote a little more time.

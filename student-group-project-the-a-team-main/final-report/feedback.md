@@ -1,0 +1,5 @@
+I think you did a pretty nice job with this analysis.  I really appreciate the post-hoc inspection of feature importance.  I think you've slightly mis-interpreted the partial dependence plots, which most likely plot the influence of a variable over it's range.  So the interpretation of "age" here would be that the influence of age grows quickly from being a negative predictor to a positive predictor of playoffs.  Given this, you should really make sure you understand *why* you're getting this result - right now, your text interpretation of this feature sounds good, but doesn't align with the plot.
+
+In general though, it looks to me like you set your data up correctly and did a solid job with the modeling and presentation.  I don't quite understand what role PCA played for you here, as you didn't use it in the final analysis.  I would have liked a somewhat deeper dive on prior literature and the variables that weighed more heavily. Could we do as well with just your top features? 
+
+18.5/20
