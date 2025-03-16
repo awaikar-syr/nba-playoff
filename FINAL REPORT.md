@@ -5,8 +5,8 @@
 ## Team
 
 **Team Members:**
-- Collin Kneiss (GitHub ID: cjkneiss) - Point of Contact (POC)
-- Ankit Waikar (GitHub ID: awaikar-syr)
+- <u>Ankit Waikar</u> (GitHub ID: awaikar-syr) - Team Lead / Point of Contact (POC)
+- Collin Kneiss (GitHub ID: cjkneiss) 
 - Odbileg Erdenebileg (GitHub ID: odko123)
 
 ---
